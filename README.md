@@ -71,17 +71,11 @@ These repositories represent earlier steps in my Python and API learning process
 
 I am building a series of small Python projects to practice consistently without repeating previous work.
 
-New projects will gradually cover areas such as:
+| Date | Project | Focus |
+|---|---|---|
+| 2026-09-19 | [Sensor Log Analyzer](https://github.com/Levanyon/git-pratic) | CSV parsing · dataclasses · statistics · CLI · unittest · GitHub Actions |
 
-- Python utilities and CLI tools
-- APIs and data processing
-- Automation
-- Testing
-- SQLite and local data systems
-- Engineering-oriented tools
-- AI-assisted workflows
-
-> New daily projects will be added here as they are completed.
+Upcoming projects will gradually cover Python utilities, APIs, data processing, automation, testing, local data systems, engineering-oriented tools and AI-assisted workflows.
 
 ---
 
