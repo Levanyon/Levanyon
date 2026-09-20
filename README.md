@@ -73,7 +73,8 @@ I am building a series of small Python projects to practice consistently without
 
 | Date | Project | Focus |
 |---|---|---|
-| 2026-09-19 | [Sensor Log Analyzer](https://github.com/Levanyon/git-pratic) | CSV parsing · dataclasses · statistics · CLI · unittest · GitHub Actions |
+| 2026-09-20 | [File Integrity Checker](https://github.com/Levanyon/file-integrity-checker) | SHA-256 · pathlib · JSON · argparse · unittest · GitHub Actions |
+| 2026-09-19 | [Sensor Log Analyzer](https://github.com/Levanyon/sensor-takip) | CSV parsing · dataclasses · statistics · CLI · unittest · GitHub Actions |
 
 Upcoming projects will gradually cover Python utilities, APIs, data processing, automation, testing, local data systems, engineering-oriented tools and AI-assisted workflows.
 
