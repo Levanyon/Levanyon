@@ -73,6 +73,7 @@ I am building a series of small Python projects to practice consistently without
 
 | Date | Project | Focus |
 |---|---|---|
+| 2026-09-22 | [Machine Maintenance Tracker](https://github.com/Levanyon/machine-maintenance-tracker) | dataclasses · JSON · pathlib · argparse · unittest · GitHub Actions |
 | 2026-09-21 | [Encoder RPM Calculator](https://github.com/Levanyon/encoder-rpm-calculator) | Encoder PPR · RPM · rad/s · argparse · unittest · GitHub Actions |
 | 2026-09-20 | [File Integrity Checker](https://github.com/Levanyon/file-integrity-checker) | SHA-256 · pathlib · JSON · argparse · unittest · GitHub Actions |
 | 2026-09-19 | [Sensor Log Analyzer](https://github.com/Levanyon/sensor-takip) | CSV parsing · dataclasses · statistics · CLI · unittest · GitHub Actions |
